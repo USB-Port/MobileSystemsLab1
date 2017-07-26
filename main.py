@@ -183,7 +183,7 @@ def main():
   global client
   global sock
 
-  print("Welcome to Jason Koan's Bluetooth P2P chat program!\n")
+  print("Welcome to USB-Port's Bluetooth P2P chat program!\n")
   print("Type \"help\" to see a list of option.")
   print("type \"how\" to see how to connect and send a message\n")
 
